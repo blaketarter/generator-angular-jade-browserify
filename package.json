@@ -23,7 +23,7 @@
     "yeoman-generator",
     "angular",
     "jade",
-    "browserify"
+    "browserify",
     "web",
     "app"
   ],
