@@ -1,7 +1,7 @@
 {
-  "name": "generator-angular-jade",
+  "name": "generator-angular-jade-browserify",
   "version": "0.0.1",
-  "description": "Yeoman generator for angular apps using jade.",
+  "description": "Yeoman generator for angular apps using jade and browserify.",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "blaketarter/generator-angular-jade",
@@ -23,6 +23,7 @@
     "yeoman-generator",
     "angular",
     "jade",
+    "browserify"
     "web",
     "app"
   ],

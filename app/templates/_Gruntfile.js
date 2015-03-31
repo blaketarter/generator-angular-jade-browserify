@@ -10,5 +10,4 @@ module.exports = function(grunt) {
     src: 'src',
     dist: 'dist',
   });
-  
 };
