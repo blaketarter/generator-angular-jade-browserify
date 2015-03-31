@@ -1,0 +1,11 @@
+doctype html
+html(lang="en", data-ng-app="app")
+  include ./template/_header
+  body
+    .content
+      .view(data-ng-view)
+      
+    include ./template/outdated-browser
+    
+    script(type="text/javascript", src="js/vendor/outdated-browser.js")
+    script(type="text/javascript", src="js/app.js")
